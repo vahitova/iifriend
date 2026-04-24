@@ -12,8 +12,8 @@ import time
 # КОНФИГУРАЦИЯ СТРАНИЦЫ
 # ============================================================
 st.set_page_config(
-    page_title="🤖 Нейро-Напарник",
-    page_icon="🤖",
+    page_title="Нейро-Напарник",
+    page_icon="🕵️",
     layout="wide",
     initial_sidebar_state="expanded"
 )
